@@ -26,4 +26,3 @@ node --version or node -v.
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-And also try to visit [my blog](https://webdeloper.blogspot.com/)
